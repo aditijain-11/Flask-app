@@ -1,0 +1,8 @@
+{
+    "MONGODB_SETTINGS": {
+        "db": "user_db",
+        "host": "localhost",
+        "port": 27017
+    },
+    "MONGODB_URI": ""
+}
